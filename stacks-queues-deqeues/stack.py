@@ -1,5 +1,6 @@
 """
 stack.py
+stack - LIFO
 """
 
 class Stack(object):
