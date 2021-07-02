@@ -5,7 +5,6 @@ Given a string of opening and closing parentheses, check whether it’s balanced
 
 You can assume the input string has no spaces.
 """
-sys.path.append(".")
 
 from stack import Stack
 
